@@ -1,4 +1,4 @@
-# vue3-samples
+# Anchora Website
 
 ## Project setup
 ```
