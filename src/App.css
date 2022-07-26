@@ -1,0 +1,64 @@
+.home-header {
+  position: relative;
+  background: url('/images/home-header-image.jpg') no-repeat center center;
+  background-size: 100% 100%;
+  min-height: 100vh;
+}
+
+.home-intro-1 {
+  background-color: #2C1C2E;
+}
+
+.font-13 {
+  font-size: 13px;
+}
+
+.home-clients .custom-col {
+  width: 20% !important;
+}
+
+@media (max-width: 767px) {
+  .home-clients .custom-col {
+    width: 33.3% !important;
+  }
+}
+
+.home-clients .rounded-xl {
+  background: url('/images/ocean.png') no-repeat center center fixed;
+  background-size: 100% 100%;
+  border-radius: 10px;
+}
+
+.triangle-down {
+	width: 0;
+	height: 0;
+	border-left: 30px solid transparent;
+	border-right: 30px solid transparent;
+	border-top: 30px solid #fff;
+}
+
+.home-products {
+  background-color: #2C1C2E;
+}
+
+.rounded-xl {
+  border-radius: 10px;
+}
+
+.home-team {
+  background-color: #180F19;
+}
+
+.home-team .rounded-xl {
+  background: url('/images/team-leader.png') no-repeat center center;
+  background-size: 100% 100%;
+  border-radius: 10px;
+}
+
+.home-team .triangle-down {
+	border-top: 30px solid #1A111C;
+}
+
+.home-footer {
+  background-color: #F1B437;
+}
