@@ -1,3 +1,7 @@
+body {
+  font-family: 'SORA', sans-serif;
+}
+
 .home-header {
   position: relative;
   background: url('/images/home-header-image.jpg') no-repeat center center;
